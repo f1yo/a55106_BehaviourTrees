@@ -20,6 +20,10 @@ public class BehaviourTree : Node
         public Node node;
     }
 
+    public override Status Process()
+    {
+        return children[currentChild].Process();
+    }
     public void PrintTree()
     {
         string treePrintout = "";
