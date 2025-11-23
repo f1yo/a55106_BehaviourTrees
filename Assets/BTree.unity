@@ -1784,8 +1784,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 524558653}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.22950613, y: 0.34205493, z: -0.08654347, w: -0.9071029}
-  m_LocalPosition: {x: 22.542892, y: 19.594994, z: -4.3823223}
+  m_LocalRotation: {x: 0.27008086, y: -0.5552619, z: 0.19692557, w: 0.7615517}
+  m_LocalPosition: {x: 49.59563, y: 31.02907, z: -4.3377934}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2193,6 +2193,7 @@ MonoBehaviour:
   van: {fileID: 631430679}
   door: {fileID: 919599686}
   frontDoor: {fileID: 1791870521}
+  money: 266
 --- !u!1 &716268924
 GameObject:
   m_ObjectHideFlags: 0
